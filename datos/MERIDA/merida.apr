@@ -1,0 +1,2505 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Project"
+	Roots:	2
+	Version:	32
+)
+
+(Project.2
+	Name:	"merida.apr"
+	CreationDate:	"martes, 23 de octubre de 2007 11:40:03"
+	GUIName:	"Project"
+	Win:	3
+	CSMgr:	4
+	DocExts:	5
+	VisGUIWidth:	70
+	Doc:	6
+	Doc:	40
+	Buttons:	351
+	Buttons:	352
+	Buttons:	353
+	Scripts:	354
+	Prefs:	355
+	WorkDir:	1181
+	WinX:	11
+	WinW:	623
+	WinH:	476
+	SerialNumber:	"825861107108"
+	SelColor:	1182
+	GUINames:	1183
+	GUINames:	1184
+	GUINames:	1185
+	GUINames:	1186
+	GUINames:	1187
+	GUINames:	1188
+	GUINames:	1189
+	TocWidthScale:	1.00000000000000
+)
+
+(DocWin.3
+	Owner:	2
+	Open:	1
+	X:	-4
+	Y:	-4
+	W:	625
+	H:	368
+)
+
+(CSMgr.4
+)
+
+(DocAct.5
+	Doc:	2
+)
+
+(Layout.6
+	Name:	"Layout1"
+	CreationDate:	"martes, 23 de octubre de 2007 11:48:33"
+	GUIName:	"Layout"
+	Win:	7
+	CSMgr:	8
+	DocExts:	10
+	DocExts:	11
+	Graphics:	12
+	Dpy:	220
+)
+
+(DocWin.7
+	Owner:	6
+	X:	5
+	Y:	5
+	W:	493
+	H:	269
+)
+
+(CSMgr.8
+	Client:	9
+)
+
+(CSClient.9
+	Client:	10
+	ReqName:	"ClientNfy"
+)
+
+(PanMgr.10
+	Doc:	6
+)
+
+(DocAct.11
+	Doc:	6
+)
+
+(GList.12
+	Child:	13
+	Child:	33
+	Child:	225
+	Child:	242
+	Child:	257
+	Child:	293
+	Child:	309
+	Child:	320
+	Child:	331
+	Child:	342
+	Dpy:	220
+	FormatNumb:	350
+)
+
+(GGroup.13
+	Bounds:	14
+	Flags:	0x02
+	Graphic:	15
+	Graphic:	21
+	Graphic:	27
+)
+
+(RectD.14
+	Left:	741.94666666666672
+	Top:	754.72666666666669
+	Right:	758.05333333333328
+	Bottom:	745.27333333333331
+)
+
+(GShape.15
+	Bounds:	16
+	Sym:	17
+	Selected:	0x01
+	Shape:	19
+)
+
+(RectD.16
+	Left:	742.02999999999997
+	Top:	754.64333333333343
+	Right:	757.97000000000003
+	Bottom:	745.35666666666657
+)
+
+(BLnSym.17
+	Color:	18
+	Width:	0.20000000000000
+	CapStyle:	0x02
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.18
+)
+
+(ArcD.19
+	Box:	20
+	Points:	742.02999999999997	745.35666666666657
+	Points:	742.02999999999997	754.64333333333343
+	Points:	757.97000000000003	754.64333333333343
+	Points:	757.97000000000003	745.35666666666657
+	Points:	742.02999999999997	745.35666666666657
+	Parts:	00000000 
+)
+
+(RectD.20
+	Left:	742.02999999999997
+	Top:	754.64333333333343
+	Right:	757.97000000000003
+	Bottom:	745.35666666666657
+)
+
+(GShape.21
+	Bounds:	22
+	Sym:	23
+	Selected:	0x01
+	Shape:	25
+)
+
+(RectD.22
+	Left:	741.98833333333334
+	Top:	754.68500000000006
+	Right:	758.01166666666666
+	Bottom:	745.31499999999994
+)
+
+(BLnSym.23
+	Color:	24
+	Width:	0.20000000000000
+	CapStyle:	0x02
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.24
+)
+
+(ArcD.25
+	Box:	26
+	Points:	741.98833333333334	745.31499999999994
+	Points:	741.98833333333334	754.68500000000006
+	Points:	758.01166666666666	754.68500000000006
+	Points:	758.01166666666666	745.31499999999994
+	Points:	741.98833333333334	745.31499999999994
+	Parts:	00000000 
+)
+
+(RectD.26
+	Left:	741.98833333333334
+	Top:	754.68500000000006
+	Right:	758.01166666666666
+	Bottom:	745.31499999999994
+)
+
+(GShape.27
+	Bounds:	28
+	Sym:	29
+	Selected:	0x01
+	Shape:	31
+)
+
+(RectD.28
+	Left:	741.94666666666672
+	Top:	754.72666666666669
+	Right:	758.05333333333328
+	Bottom:	745.27333333333331
+)
+
+(BLnSym.29
+	Color:	30
+	Width:	0.20000000000000
+	CapStyle:	0x02
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.30
+)
+
+(ArcD.31
+	Box:	32
+	Points:	741.94666666666672	745.27333333333331
+	Points:	741.94666666666672	754.72666666666669
+	Points:	758.05333333333328	754.72666666666669
+	Points:	758.05333333333328	745.27333333333331
+	Points:	741.94666666666672	745.27333333333331
+	Parts:	00000000 
+)
+
+(RectD.32
+	Left:	741.94666666666672
+	Top:	754.72666666666669
+	Right:	758.05333333333328
+	Bottom:	745.27333333333331
+)
+
+(GView.33
+	Name:	"ViewFrame87"
+	Bounds:	34
+	Sym:	35
+	Flags:	0x01
+	UserBounds:	39
+	Refresh:	2
+	Quality:	1
+	View:	40
+	LiveLink:	1
+	MapDpy:	218
+	CSMgr:	223
+)
+
+(RectD.34
+	Left:	742.25000000000000
+	Top:	754.50000000000000
+	Right:	753.25000000000000
+	Bottom:	745.50000000000000
+)
+
+(BShSym.35
+	Color:	36
+	OutlineColor:	37
+	BgColor:	38
+	Style:	0x01
+)
+
+(TClr.36
+)
+
+(TClr.37
+)
+
+(TClr.38
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(RectD.39
+	Left:	742.25000000000000
+	Top:	754.50000000000000
+	Right:	753.25000000000000
+	Bottom:	745.50000000000000
+)
+
+(View.40
+	Name:	"View1"
+	CreationDate:	"martes, 23 de octubre de 2007 11:40:04"
+	GUIName:	"View"
+	Win:	41
+	CSMgr:	42
+	DocExts:	44
+	DocExts:	46
+	Graphics:	47
+	Theme:	54
+	Theme:	89
+	Theme:	136
+	Theme:	183
+	LastScale:	2123667.90658527610000
+	Dpy:	48
+	TOCWidth:	150
+	CoordPrecision:	2
+)
+
+(DocWin.41
+	Owner:	40
+	X:	-4
+	Y:	-4
+	W:	625
+	H:	368
+)
+
+(CSMgr.42
+	Client:	43
+	Client:	45
+)
+
+(CSClient.43
+	Client:	44
+	ReqName:	"ClientNfy"
+)
+
+(PanMgr.44
+	Doc:	40
+)
+
+(CSClient.45
+	Client:	33
+	ReqName:	"ViewChangedCB"
+)
+
+(DocAct.46
+	Doc:	40
+)
+
+(GList.47
+	Dpy:	48
+	FormatNumb:	53
+)
+
+(MapDpy.48
+	Left:	-71.88748262999999
+	Bottom:	7.64492724450000
+	Top:	9.33269102550000
+	Right:	-70.58020149000001
+	ReportUnits:	4
+	Units:	10
+	Scale:	49
+	FrameTop:	3.47916666666667
+	FrameRight:	4.79166666666667
+	PageDpy:	50
+	FitToPage:	1
+	MouseLoc:	52
+)
+
+(Numb.49
+	N:	2.06140616704386
+)
+
+(PageDpy.50
+	Top:	3.47916666666667
+	Right:	4.79166666666667
+	ReportUnits:	1
+	Units:	1
+	Scale:	51
+	ZoomRight:	4.79166666666667
+	ZoomTop:	3.47916666666667
+	GridSpacingX:	0.25000000000000
+	GridSpacingY:	0.25000000000000
+)
+
+(Numb.51
+	N:	0.20869565217391
+)
+
+(PointD.52
+	x:	-72.34048956909879
+	y:	9.26699962085030
+)
+
+(Numb.53
+)
+
+(FTheme.54
+	Name:	"Cap_cp_Merida.shp"
+	Source:	55
+	Flags:	0x07
+	Legend:	67
+	Threshold:	86
+	View:	40
+	GSet:	87
+	LegEditScript:	"View.EditLegend"
+	TxPos:	88
+	LabelField:	61
+	SnapTolCursor:	1
+)
+
+(ShpSrc.55
+	Name:	56
+	FTab:	58
+)
+
+(SrcName.56
+	FileName:	57
+	Name:	"merida.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.57
+	Path:	"c:/dpt estados/merida/merida.shp"
+)
+
+(FTab.58
+	Name:	"merida.dbf"
+	BTab:	59
+	Fields:	65
+	Fields:	60
+	Fields:	61
+	Fields:	62
+	Fields:	63
+	SelBits:	66
+	FSrc:	55
+)
+
+(dBASE.59
+	Name:	"merida.dbf"
+	Fields:	60
+	Fields:	61
+	Fields:	62
+	Fields:	63
+	FileName:	64
+)
+
+(Field.60
+	Name:	"Codigo_cp"
+	Btab:	59
+	Alias:	"Codigo_cp"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.61
+	Name:	"Nomcenpob"
+	Btab:	59
+	Alias:	"Nomcenpob"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.62
+	Name:	"Tipo"
+	Btab:	59
+	Alias:	"Tipo"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.63
+	Name:	"Cod_estado"
+	Btab:	59
+	Alias:	"Cod_estado"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.64
+	Path:	"c:/dpt estados/merida/merida.dbf"
+)
+
+(Field.65
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+)
+
+(Bitmap.66
+	NumBits:	86
+
+)
+
+(Legend.67
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	68
+	Class:	76
+	StdDevs:	1.00000000000000
+	NullSym:	77
+	NullValues:	84
+	StatValues:	85
+	Precision:	-3
+)
+
+(SymList.68
+	Child:	69
+)
+
+(BMkSym.69
+	Color:	70
+	BgColor:	71
+	Font:	72
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.70
+	Red:	0xffff
+)
+
+(TClr.71
+	Name:	"Transparent"
+)
+
+(NFont.72
+	Family:	73
+	Name:	74
+	Style:	75
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.73
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.74
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.75
+	S:	"Normal"
+)
+
+(LClass.76
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.77
+	Color:	78
+	BgColor:	79
+	Font:	80
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.78
+	Name:	"Transparent"
+)
+
+(TClr.79
+	Name:	"Transparent"
+)
+
+(NFont.80
+	Family:	81
+	Name:	82
+	Style:	83
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.81
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.82
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.83
+	S:	"Normal"
+)
+
+(NameDict.84
+)
+
+(NameDict.85
+)
+
+(Thresh.86
+)
+
+(GSet.87
+)
+
+(TxPosPt.88
+	HAlign:	4
+	VAlign:	3
+)
+
+(FTheme.89
+	Name:	"Merida_pquia.shp"
+	Source:	90
+	Flags:	0x06
+	Legend:	109
+	Threshold:	122
+	View:	40
+	GSet:	123
+	LegEditScript:	"View.EditLegend"
+	TxPos:	124
+	LabelField:	95
+	AttrRules:	125
+	AttrRules:	126
+	AttrRules:	127
+	AttrRules:	128
+	AttrRules:	129
+	AttrRules:	130
+	AttrRules:	131
+	AttrRules:	132
+	AttrRules:	133
+	AttrRules:	134
+	AttrRules:	135
+	SnapTolCursor:	1
+)
+
+(ShpSrc.90
+	Name:	91
+	FTab:	93
+)
+
+(SrcName.91
+	FileName:	92
+	Name:	"merida.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.92
+	Path:	"c:/dpt estados/merida/dpt_parroquial/merida.shp"
+)
+
+(FTab.93
+	Name:	"merida.dbf"
+	BTab:	94
+	Fields:	107
+	Fields:	95
+	Fields:	96
+	Fields:	97
+	Fields:	98
+	Fields:	99
+	Fields:	100
+	Fields:	101
+	Fields:	102
+	Fields:	103
+	Fields:	104
+	Fields:	105
+	SelBits:	108
+	FSrc:	90
+)
+
+(dBASE.94
+	Name:	"merida.dbf"
+	Fields:	95
+	Fields:	96
+	Fields:	97
+	Fields:	98
+	Fields:	99
+	Fields:	100
+	Fields:	101
+	Fields:	102
+	Fields:	103
+	Fields:	104
+	Fields:	105
+	FileName:	106
+)
+
+(Field.95
+	Name:	"Id"
+	Btab:	94
+	Alias:	"Id"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.96
+	Name:	"Id_estado"
+	Btab:	94
+	Alias:	"Id_estado"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.97
+	Name:	"Estado"
+	Btab:	94
+	Alias:	"Estado"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.98
+	Name:	"Cap_estado"
+	Btab:	94
+	Alias:	"Cap_estado"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.99
+	Name:	"Id_municip"
+	Btab:	94
+	Alias:	"Id_municip"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.100
+	Name:	"Municipio"
+	Btab:	94
+	Alias:	"Municipio"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.101
+	Name:	"Cap_munici"
+	Btab:	94
+	Alias:	"Cap_munici"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.102
+	Name:	"Id_parroqu"
+	Btab:	94
+	Alias:	"Id_parroqu"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.103
+	Name:	"Parroquia"
+	Btab:	94
+	Alias:	"Parroquia"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.104
+	Name:	"Cap_parroq"
+	Btab:	94
+	Alias:	"Cap_parroq"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.105
+	Name:	"Nota"
+	Btab:	94
+	Alias:	"Nota"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.106
+	Path:	"c:/dpt estados/merida/dpt_parroquial/merida.dbf"
+)
+
+(Field.107
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.108
+	NumBits:	86
+
+)
+
+(Legend.109
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	110
+	Class:	115
+	StdDevs:	1.00000000000000
+	NullSym:	116
+	NullValues:	120
+	StatValues:	121
+	Precision:	-3
+)
+
+(SymList.110
+	Child:	111
+)
+
+(BShSym.111
+	Color:	112
+	Outline:	1
+	OutlineColor:	113
+	OutlineWidth:	0.10000000000000
+	BgColor:	114
+)
+
+(TClr.112
+	Red:	0xc3b5
+	Green:	0xff00
+	Blue:	0xc33b
+)
+
+(TClr.113
+)
+
+(TClr.114
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.115
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.116
+	Color:	117
+	Outline:	1
+	OutlineColor:	118
+	OutlineWidth:	0.10000000000000
+	BgColor:	119
+)
+
+(TClr.117
+	Name:	"Transparent"
+)
+
+(TClr.118
+	Name:	"Transparent"
+)
+
+(TClr.119
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.120
+)
+
+(NameDict.121
+)
+
+(Thresh.122
+)
+
+(GSet.123
+)
+
+(TxPosPly.124
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.125
+	FTab:	93
+	Field:	95
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.126
+	FTab:	93
+	Field:	96
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.127
+	FTab:	93
+	Field:	97
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.128
+	FTab:	93
+	Field:	98
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.129
+	FTab:	93
+	Field:	99
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.130
+	FTab:	93
+	Field:	100
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.131
+	FTab:	93
+	Field:	101
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.132
+	FTab:	93
+	Field:	102
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.133
+	FTab:	93
+	Field:	103
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.134
+	FTab:	93
+	Field:	104
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.135
+	FTab:	93
+	Field:	105
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.136
+	Name:	"Merida_mun.shp"
+	Source:	137
+	Flags:	0x06
+	Legend:	156
+	Threshold:	169
+	View:	40
+	GSet:	170
+	LegEditScript:	"View.EditLegend"
+	TxPos:	171
+	LabelField:	142
+	AttrRules:	172
+	AttrRules:	173
+	AttrRules:	174
+	AttrRules:	175
+	AttrRules:	176
+	AttrRules:	177
+	AttrRules:	178
+	AttrRules:	179
+	AttrRules:	180
+	AttrRules:	181
+	AttrRules:	182
+	SnapTolCursor:	1
+)
+
+(ShpSrc.137
+	Name:	138
+	FTab:	140
+)
+
+(SrcName.138
+	FileName:	139
+	Name:	"merida_mun.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.139
+	Path:	"c:/dpt estados/merida/dpt_municipal/merida_mun.shp"
+)
+
+(FTab.140
+	Name:	"merida_mun.dbf"
+	BTab:	141
+	Fields:	154
+	Fields:	142
+	Fields:	143
+	Fields:	144
+	Fields:	145
+	Fields:	146
+	Fields:	147
+	Fields:	148
+	Fields:	149
+	Fields:	150
+	Fields:	151
+	Fields:	152
+	SelBits:	155
+	FSrc:	137
+)
+
+(dBASE.141
+	Name:	"merida_mun.dbf"
+	Fields:	142
+	Fields:	143
+	Fields:	144
+	Fields:	145
+	Fields:	146
+	Fields:	147
+	Fields:	148
+	Fields:	149
+	Fields:	150
+	Fields:	151
+	Fields:	152
+	FileName:	153
+)
+
+(Field.142
+	Name:	"Id_municip"
+	Btab:	141
+	Alias:	"Id_municip"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.143
+	Name:	"Count"
+	Btab:	141
+	Alias:	"Count"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.144
+	Name:	"First_cod_"
+	Btab:	141
+	Alias:	"First_cod_"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.145
+	Name:	"First_esta"
+	Btab:	141
+	Alias:	"First_esta"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.146
+	Name:	"First_cap_"
+	Btab:	141
+	Alias:	"First_cap_"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.147
+	Name:	"First_cod_"
+	Btab:	141
+	Alias:	"First_cod_"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.148
+	Name:	"First_muni"
+	Btab:	141
+	Alias:	"First_muni"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.149
+	Name:	"First_nota"
+	Btab:	141
+	Alias:	"First_nota"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.150
+	Name:	"Etiqueta"
+	Btab:	141
+	Alias:	"Etiqueta"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.151
+	Name:	"Pob_totabl"
+	Btab:	141
+	Alias:	"Pob_totabl"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.152
+	Name:	"Viviendas"
+	Btab:	141
+	Alias:	"Viviendas"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.153
+	Path:	"c:/dpt estados/merida/dpt_municipal/merida_mun.dbf"
+)
+
+(Field.154
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.155
+	NumBits:	23
+
+)
+
+(Legend.156
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	157
+	Class:	162
+	StdDevs:	1.00000000000000
+	NullSym:	163
+	NullValues:	167
+	StatValues:	168
+	Precision:	-3
+)
+
+(SymList.157
+	Child:	158
+)
+
+(BShSym.158
+	Color:	159
+	Outline:	1
+	OutlineColor:	160
+	OutlineWidth:	0.10000000000000
+	BgColor:	161
+)
+
+(TClr.159
+	Red:	0x5634
+	Green:	0x8ef9
+	Blue:	0x1005
+)
+
+(TClr.160
+)
+
+(TClr.161
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.162
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.163
+	Color:	164
+	Outline:	1
+	OutlineColor:	165
+	OutlineWidth:	0.10000000000000
+	BgColor:	166
+)
+
+(TClr.164
+	Name:	"Transparent"
+)
+
+(TClr.165
+	Name:	"Transparent"
+)
+
+(TClr.166
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.167
+)
+
+(NameDict.168
+)
+
+(Thresh.169
+)
+
+(GSet.170
+)
+
+(TxPosPly.171
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.172
+	FTab:	140
+	Field:	142
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.173
+	FTab:	140
+	Field:	143
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.174
+	FTab:	140
+	Field:	144
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.175
+	FTab:	140
+	Field:	145
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.176
+	FTab:	140
+	Field:	146
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.177
+	FTab:	140
+	Field:	147
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.178
+	FTab:	140
+	Field:	148
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.179
+	FTab:	140
+	Field:	149
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.180
+	FTab:	140
+	Field:	150
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.181
+	FTab:	140
+	Field:	151
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.182
+	FTab:	140
+	Field:	152
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.183
+	Name:	"Vzla_estados.shp"
+	Source:	184
+	Flags:	0x06
+	Legend:	197
+	Threshold:	210
+	View:	40
+	GSet:	211
+	LegEditScript:	"View.EditLegend"
+	TxPos:	212
+	LabelField:	189
+	AttrRules:	213
+	AttrRules:	214
+	AttrRules:	215
+	AttrRules:	216
+	AttrRules:	217
+	SnapTolCursor:	1
+)
+
+(ShpSrc.184
+	Name:	185
+	FTab:	187
+)
+
+(SrcName.185
+	FileName:	186
+	Name:	"vzla_estados.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.186
+	Path:	"c:/dpt estados/merida/dpt_estado/vzla_estados.shp"
+)
+
+(FTab.187
+	Name:	"vzla_estados.dbf"
+	BTab:	188
+	Fields:	195
+	Fields:	189
+	Fields:	190
+	Fields:	191
+	Fields:	192
+	Fields:	193
+	SelBits:	196
+	FSrc:	184
+)
+
+(dBASE.188
+	Name:	"vzla_estados.dbf"
+	Fields:	189
+	Fields:	190
+	Fields:	191
+	Fields:	192
+	Fields:	193
+	FileName:	194
+)
+
+(Field.189
+	Name:	"Id_estado"
+	Btab:	188
+	Alias:	"Id_estado"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.190
+	Name:	"First_id"
+	Btab:	188
+	Alias:	"First_id"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.191
+	Name:	"Estado"
+	Btab:	188
+	Alias:	"Estado"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.192
+	Name:	"Capital"
+	Btab:	188
+	Alias:	"Capital"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.193
+	Name:	"Nota"
+	Btab:	188
+	Alias:	"Nota"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.194
+	Path:	"c:/dpt estados/merida/dpt_estado/vzla_estados.dbf"
+)
+
+(Field.195
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.196
+	NumBits:	25
+
+)
+
+(Legend.197
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	198
+	Class:	203
+	StdDevs:	1.00000000000000
+	NullSym:	204
+	NullValues:	208
+	StatValues:	209
+	Precision:	-3
+)
+
+(SymList.198
+	Child:	199
+)
+
+(BShSym.199
+	Color:	200
+	Outline:	1
+	OutlineColor:	201
+	OutlineWidth:	0.10000000000000
+	BgColor:	202
+)
+
+(TClr.200
+	Red:	0xd2d2
+	Green:	0xd2d2
+	Blue:	0xd2d2
+)
+
+(TClr.201
+)
+
+(TClr.202
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.203
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.204
+	Color:	205
+	Outline:	1
+	OutlineColor:	206
+	OutlineWidth:	0.10000000000000
+	BgColor:	207
+)
+
+(TClr.205
+	Name:	"Transparent"
+)
+
+(TClr.206
+	Name:	"Transparent"
+)
+
+(TClr.207
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.208
+)
+
+(NameDict.209
+)
+
+(Thresh.210
+)
+
+(GSet.211
+)
+
+(TxPosPly.212
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.213
+	FTab:	187
+	Field:	189
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.214
+	FTab:	187
+	Field:	190
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.215
+	FTab:	187
+	Field:	191
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.216
+	FTab:	187
+	Field:	192
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.217
+	FTab:	187
+	Field:	193
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(MapDpy.218
+	Left:	-72.40769692924042
+	Bottom:	7.63648842559500
+	Top:	9.34112984440500
+	Right:	-70.05998719075959
+	Scale:	219
+	FrameLeft:	742.25000000000000
+	FrameBottom:	745.50000000000000
+	FrameTop:	754.50000000000000
+	FrameRight:	753.25000000000000
+	PageDpy:	220
+	MouseLoc:	222
+)
+
+(Numb.219
+	N:	4.68541737494259
+)
+
+(PageDpy.220
+	Top:	1500.00000000000000
+	Right:	1500.00000000000000
+	ReportUnits:	1
+	Units:	1
+	Scale:	221
+	Type:	1
+	ZoomLeft:	745.45333333333338
+	ZoomRight:	754.54666666666662
+	ZoomTop:	756.42950000000008
+	ZoomBottom:	743.57049999999992
+	PageLeft:	741.50000000000000
+	PageRight:	758.50000000000000
+	PageTop:	755.50000000000000
+	PageBottom:	744.50000000000000
+	GridSpacingX:	0.25000000000000
+	GridSpacingY:	0.25000000000000
+	MarginLeft:	0.19666666666667
+	MarginRight:	0.19666666666667
+	MarginTop:	0.52333333333333
+	MarginBottom:	0.52333333333333
+	Options:	63
+)
+
+(Numb.221
+	N:	0.07776654483241
+)
+
+(PointD.222
+)
+
+(CSMgr.223
+	Client:	224
+	Client:	241
+)
+
+(CSClient.224
+	Client:	225
+	ReqName:	"RespondViewFrameChanged"
+)
+
+(GLegend.225
+	Name:	"LegendFrame88"
+	Bounds:	226
+	Sym:	227
+	Flags:	0x01
+	UserBounds:	231
+	Refresh:	2
+	Quality:	1
+	GView:	33
+	TextSym:	232
+)
+
+(RectD.226
+	Left:	753.75000000000000
+	Top:	750.48324788222658
+	Right:	757.51056399056097
+	Bottom:	749.00000000000000
+)
+
+(BShSym.227
+	Color:	228
+	OutlineColor:	229
+	BgColor:	230
+	Style:	0x01
+)
+
+(TClr.228
+)
+
+(TClr.229
+)
+
+(TClr.230
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(RectD.231
+	Left:	753.75000000000000
+	Top:	751.00000000000000
+	Right:	757.50000000000000
+	Bottom:	749.00000000000000
+)
+
+(TxSym.232
+	Color:	233
+	Font:	234
+	BgColor:	239
+	OlColor:	240
+	Size:	26.62346188007746
+)
+
+(TClr.233
+)
+
+(NFont.234
+	Family:	235
+	Name:	236
+	Style:	237
+	CommonFamily:	238
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.235
+	S:	"Arial"
+)
+
+(AVStr.236
+	S:	"Arial"
+)
+
+(AVStr.237
+	S:	"Normal"
+)
+
+(AVStr.238
+	S:	"Helvetica"
+)
+
+(TClr.239
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.240
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(CSClient.241
+	Client:	242
+	ReqName:	"GViewChangedCB"
+)
+
+(GSBar.242
+	Name:	"ScaleBarFrame89"
+	Bounds:	243
+	Sym:	244
+	GView:	33
+	Style:	3
+	Units:	8
+	Interval:	30.00000000000000
+	Intervals:	2
+	Divisions:	2
+	TextRatio:	1.50000000000000
+	TextSym:	248
+	PreserveInterval:	1
+)
+
+(RectD.243
+	Left:	742.75000000000000
+	Top:	746.32407407407402
+	Right:	747.66621811520588
+	Bottom:	746.00000000000000
+)
+
+(BShSym.244
+	Color:	245
+	Outline:	1
+	OutlineColor:	246
+	BgColor:	247
+)
+
+(TClr.245
+)
+
+(TClr.246
+)
+
+(TClr.247
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(TxSym.248
+	Color:	249
+	Font:	250
+	BgColor:	255
+	OlColor:	256
+	Size:	14.00000000000000
+)
+
+(TClr.249
+)
+
+(NFont.250
+	Family:	251
+	Name:	252
+	Style:	253
+	CommonFamily:	254
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.251
+	S:	"Arial"
+)
+
+(AVStr.252
+	S:	"Arial"
+)
+
+(AVStr.253
+	S:	"Normal"
+)
+
+(AVStr.254
+	S:	"Helvetica"
+)
+
+(TClr.255
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.256
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(GNorth.257
+	Name:	"NorthArrow90"
+	Bounds:	258
+	Graphic:	259
+	UserBounds:	292
+	Index:	7
+)
+
+(RectD.258
+	Left:	742.50000008052643
+	Top:	753.99999929411774
+	Right:	742.86835631582051
+	Bottom:	753.25000000000000
+)
+
+(GNorth.259
+	Bounds:	260
+	Selected:	0x01
+	Graphic:	261
+	Graphic:	279
+	UserBounds:	291
+	Index:	-1
+)
+
+(RectD.260
+	Left:	742.50000008052643
+	Top:	753.99999929411774
+	Right:	742.86835631582051
+	Bottom:	753.25000000000000
+)
+
+(GGroup.261
+	Bounds:	262
+	Selected:	0x01
+	Graphic:	263
+	Graphic:	271
+)
+
+(RectD.262
+	Left:	742.50000008052643
+	Top:	753.99999929411774
+	Right:	742.86835631582051
+	Bottom:	753.45399788235306
+)
+
+(GShape.263
+	Name:	"black"
+	Bounds:	264
+	Sym:	265
+	Selected:	0x01
+	Shape:	269
+)
+
+(RectD.264
+	Left:	742.52428525699702
+	Top:	753.97571411764716
+	Right:	742.86835631582051
+	Bottom:	753.45399788235306
+)
+
+(BShSym.265
+	Color:	266
+	Outline:	1
+	OutlineColor:	267
+	OutlineWidth:	1.00000000000000
+	BgColor:	268
+)
+
+(TClr.266
+)
+
+(TClr.267
+)
+
+(TClr.268
+	Name:	"Transparent"
+)
+
+(PolyD.269
+	Box:	270
+	Points:	742.69632078640871	753.97571411764716
+	Points:	742.52428525699702	753.45399788235306
+	Points:	742.69632078640871	753.51196635294127
+	Points:	742.86835631582051	753.45399788235306
+	Points:	742.69632078640871	753.97571411764716
+	Parts:	00000000 
+	RingTypes:	00000000 
+)
+
+(RectD.270
+	Left:	742.52428525699702
+	Top:	753.97571411764716
+	Right:	742.86835631582051
+	Bottom:	753.45399788235306
+)
+
+(GShape.271
+	Name:	"white"
+	Bounds:	272
+	Sym:	273
+	Selected:	0x01
+	Shape:	277
+)
+
+(RectD.272
+	Left:	742.50000008052643
+	Top:	753.99999929411774
+	Right:	742.84407113934992
+	Bottom:	753.47828305882365
+)
+
+(BShSym.273
+	Color:	274
+	Outline:	1
+	OutlineColor:	275
+	OutlineWidth:	1.00000000000000
+	BgColor:	276
+)
+
+(TClr.274
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(TClr.275
+)
+
+(TClr.276
+	Name:	"Transparent"
+)
+
+(PolyD.277
+	Box:	278
+	Points:	742.67203560993812	753.99999929411774
+	Points:	742.50000008052643	753.47828305882365
+	Points:	742.67203560993812	753.53625152941186
+	Points:	742.84407113934992	753.47828305882365
+	Points:	742.67203560993812	753.99999929411774
+	Parts:	00000000 
+	RingTypes:	00000000 
+)
+
+(RectD.278
+	Left:	742.50000008052643
+	Top:	753.99999929411774
+	Right:	742.84407113934992
+	Bottom:	753.47828305882365
+)
+
+(GText.279
+	Name:	"GraphicText1"
+	Bounds:	280
+	Sym:	281
+	Selected:	0x01
+	Text:	"N"
+	Spacing:	1.00000000000000
+)
+
+(RectD.280
+	Left:	742.60685637596168
+	Top:	753.48702660661002
+	Right:	742.75855340419207
+	Bottom:	753.25000000000000
+)
+
+(TxSym.281
+	Color:	282
+	Scale:	283
+	Font:	284
+	BgColor:	289
+	OlColor:	290
+	Size:	17.06591567592114
+)
+
+(TClr.282
+)
+
+(Numb.283
+	N:	1.00000000000000
+)
+
+(NFont.284
+	Family:	285
+	Name:	286
+	Style:	287
+	CommonFamily:	288
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.285
+	S:	"Arial"
+)
+
+(AVStr.286
+	S:	"Arial"
+)
+
+(AVStr.287
+	S:	"Normal"
+)
+
+(AVStr.288
+	S:	"Helvetica"
+)
+
+(TClr.289
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.290
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(RectD.291
+	Left:	742.50000000000000
+	Top:	754.00000000000000
+	Right:	742.86835639634671
+	Bottom:	753.25000000000000
+)
+
+(RectD.292
+	Left:	742.50000000000000
+	Top:	754.00000000000000
+	Right:	742.86835639634671
+	Bottom:	753.25000000000000
+)
+
+(GPict.293
+	Name:	"PictureFrame91"
+	Bounds:	294
+	Sym:	295
+	Flags:	0x01
+	UserBounds:	299
+	Refresh:	2
+	Quality:	1
+	Pict:	300
+)
+
+(RectD.294
+	Left:	753.50000000000000
+	Top:	754.03864421416233
+	Right:	757.75000000000000
+	Bottom:	753.00000000000000
+)
+
+(BShSym.295
+	Color:	296
+	OutlineColor:	297
+	BgColor:	298
+	Style:	0x01
+)
+
+(TClr.296
+)
+
+(TClr.297
+)
+
+(TClr.298
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(RectD.299
+	Left:	753.50000000000000
+	Top:	754.50000000000000
+	Right:	757.75000000000000
+	Bottom:	753.00000000000000
+)
+
+(ImgPict.300
+	Fn:	301
+	ISrc:	302
+)
+
+(FN.301
+	Path:	"c:/dpt estados/logo/logo-definitivo-azul-282.bmp"
+)
+
+(ISrc.302
+	Name:	303
+	MapBox:	305
+	BandStats:	306
+	BandStats:	307
+	BandStats:	308
+)
+
+(SrcName.303
+	FileName:	304
+	Name:	"logo-definitivo-azul-282.bmp"
+	OwnerClass:	"ISrc"
+)
+
+(FN.304
+	Path:	"c:/dpt estados/logo/logo-definitivo-azul-282.bmp"
+)
+
+(RectD.305
+	Left:	-0.50000000000000
+	Top:	282.50000000000000
+	Right:	1157.50000000000000
+	Bottom:	-0.50000000000000
+)
+
+(BStat.306
+	Max:	255.00000000000000
+	Mean:	127.50000000000000
+	StDv:	63.75000000000000
+)
+
+(BStat.307
+	Max:	255.00000000000000
+	Mean:	127.50000000000000
+	StDv:	63.75000000000000
+)
+
+(BStat.308
+	Max:	255.00000000000000
+	Mean:	127.50000000000000
+	StDv:	63.75000000000000
+)
+
+(GText.309
+	Name:	"GraphicText92"
+	Bounds:	310
+	Sym:	311
+	Text:	"TITULO MAPA"
+	Spacing:	1.00000000000000
+)
+
+(RectD.310
+	Left:	754.85795435684645
+	Top:	752.58245159059481
+	Right:	756.82462102351315
+	Bottom:	752.24911825726144
+)
+
+(TxSym.311
+	Color:	312
+	Font:	313
+	BgColor:	318
+	OlColor:	319
+	Size:	24.00000000000000
+)
+
+(TClr.312
+)
+
+(NFont.313
+	Family:	314
+	Name:	315
+	Style:	316
+	CommonFamily:	317
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.314
+	S:	"Arial"
+)
+
+(AVStr.315
+	S:	"Arial"
+)
+
+(AVStr.316
+	S:	"Normal"
+)
+
+(AVStr.317
+	S:	"Helvetica"
+)
+
+(TClr.318
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.319
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(GText.320
+	Name:	"GraphicText93"
+	Bounds:	321
+	Sym:	322
+	Text:	"LEYENDA"
+	Spacing:	1.00000000000000
+)
+
+(RectD.321
+	Left:	755.37774273858918
+	Top:	751.01069963116640
+	Right:	756.17885384970032
+	Bottom:	750.81625518672195
+)
+
+(TxSym.322
+	Color:	323
+	Font:	324
+	BgColor:	329
+	OlColor:	330
+	Size:	14.00000000000000
+)
+
+(TClr.323
+)
+
+(NFont.324
+	Family:	325
+	Name:	326
+	Style:	327
+	CommonFamily:	328
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.325
+	S:	"Arial"
+)
+
+(AVStr.326
+	S:	"Arial"
+)
+
+(AVStr.327
+	S:	"Normal"
+)
+
+(AVStr.328
+	S:	"Helvetica"
+)
+
+(TClr.329
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.330
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(GText.331
+	Name:	"GraphicText94"
+	Bounds:	332
+	Sym:	333
+	Text:	"Fuente: Gerencia Sige. Instituto Nacional de Estadistica"
+	Spacing:	1.00000000000000
+)
+
+(RectD.332
+	Left:	753.75000000000000
+	Top:	746.18307046810230
+	Right:	757.77388888888834
+	Bottom:	746.00000000000000
+)
+
+(TxSym.333
+	Color:	334
+	Font:	335
+	BgColor:	340
+	OlColor:	341
+	Size:	13.18107370336480
+)
+
+(TClr.334
+)
+
+(NFont.335
+	Family:	336
+	Name:	337
+	Style:	338
+	CommonFamily:	339
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.336
+	S:	"Arial"
+)
+
+(AVStr.337
+	S:	"Arial"
+)
+
+(AVStr.338
+	S:	"Normal"
+)
+
+(AVStr.339
+	S:	"Helvetica"
+)
+
+(TClr.340
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.341
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(GGroup.342
+	Bounds:	343
+	Flags:	0x02
+	Graphic:	344
+)
+
+(RectD.343
+	Left:	742.25000000000000
+	Top:	754.54370924897364
+	Right:	753.19709149371533
+	Bottom:	745.50000000000000
+)
+
+(GShape.344
+	Bounds:	345
+	Sym:	346
+	Selected:	0x01
+	Shape:	348
+)
+
+(RectD.345
+	Left:	742.25000000000000
+	Top:	754.54370924897364
+	Right:	753.19709149371533
+	Bottom:	745.50000000000000
+)
+
+(BLnSym.346
+	Color:	347
+	Width:	0.10000000000000
+	CapStyle:	0x02
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.347
+)
+
+(ArcD.348
+	Box:	349
+	Points:	742.25000000000000	745.50000000000000
+	Points:	742.25000000000000	754.54370924897364
+	Points:	753.19709149371533	754.54370924897364
+	Points:	753.19709149371533	745.50000000000000
+	Points:	742.25000000000000	745.50000000000000
+	Parts:	00000000 
+)
+
+(RectD.349
+	Left:	742.25000000000000
+	Top:	754.54370924897364
+	Right:	753.19709149371533
+	Bottom:	745.50000000000000
+)
+
+(Numb.350
+)
+
+(LButn.351
+	HelpTopic:	"New_button"
+	Update:	"Doc.NewUpdate"
+	Label:	"&New"
+	Click:	"View.New"
+)
+
+(LButn.352
+	HelpTopic:	"Open_button"
+	Update:	"Doc.OpenUpdate"
+	Label:	"&Open"
+	Click:	"Doc.Open"
+)
+
+(LButn.353
+	HelpTopic:	"Print_button"
+	Update:	"Doc.ActionUpdate"
+	Label:	"P&rint"
+	Click:	"Doc.Action"
+)
+
+(NameDict.354
+)
+
+(NameDict.355
+	Obj:	356
+	Obj:	357
+)
+
+(AVDict.356
+	InternalName:	"Table of Contents Defaults Dialog"
+)
+
+(AVDict.357
+	InternalName:	"_Thor_"
+)
+
+(FN.1181
+	Path:	"$HOME"
+)
+
+(TClr.1182
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(AVStr.1183
+	S:	"View"
+)
+
+(AVStr.1184
+	S:	"Table"
+)
+
+(AVStr.1185
+	S:	"Chart"
+)
+
+(AVStr.1186
+	S:	"Layout"
+)
+
+(AVStr.1187
+	S:	"Script"
+)
+
+(AVStr.1188
+	S:	"Project"
+)
+
+(AVStr.1189
+	S:	"Appl"
+)
+
