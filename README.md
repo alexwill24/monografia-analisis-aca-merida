@@ -11,6 +11,13 @@ Este repositorio contiene el código fuente, los datos y los resultados generado
 
 El objetivo de este trabajo es aplicar un modelo cuantitativo para evaluar la efectividad de las ACA en la resolución de nudos críticos, utilizando herramientas como el índice de Shannon, la correlación de Spearman y el Análisis de Componentes Principales.
 
+## Instalación y Ejecución
+1. Clona el repositorio: `git clone https://github.com/alexwill24/monografia-analisis-aca-merida.git`
+2. Abre RStudio y carga el proyecto.
+3. Instala las dependencias ejecutando el código proporcionado.
+4. Configura el directorio de trabajo a la raíz del repositorio.
+5. Ejecuta `knitr::knit("codigo/Investigacion y Analisis de Proyectos ACA Mérida- Venezuela - William Gutierrez.Rmd")` para generar el HTML con resultados.
+
 ## Requisitos
 
 - R (versión 4.0 o superior)
@@ -39,3 +46,6 @@ install.packages(c("readxl", "dplyr", "writexl", "vegan", "permute", "fastDummie
 ```
 
 Una vez instaladas las librerías, se puede ejecutar el archivo `Investigacion_ACA_Merida.Rmd` en la carpeta `/codigo`. El script está diseñado para leer los archivos de la carpeta `/datos` de forma relativa.
+
+## Contribuciones
+Si encuentra errores o sugerencias, abra un issue o envíe un pull request. Contacto: [gutalex2014@gmail.com].
