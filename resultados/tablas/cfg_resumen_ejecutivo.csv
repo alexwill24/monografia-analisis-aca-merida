@@ -1,0 +1,11 @@
+"Pos.","Nivel","Tipología CFG","Proy.","%","% Acum.","Com.","% Com."
+1,"🔴 Crítico","MANEJO INTEGRAL DEL AGUA",54,27.3,27.3,43,72.9
+2,"🔴 Crítico","VIALIDAD",30,15.2,42.5,27,45.8
+3,"🔴 Crítico","VIVIENDA",21,10.6,53.1,21,35.6
+4,"🟡 Alto","ELECTRICIDAD",19,9.6,62.7,18,30.5
+5,"🟡 Alto","SALUD",14,7.1,69.8,14,23.7
+6,"🟡 Alto","INFRAESTRUCTURA",12,6.1,75.9,11,18.6
+7,"🟡 Alto","AMBIENTE",10,5.1,81,10,16.9
+8,"🟢 Medio","EDUCACIÓN",9,4.5,85.5,9,15.3
+9,"🟢 Medio","TRANSPORTE",7,3.5,89,7,11.9
+10,"🟢 Medio","TELECOMUNICACIONES",6,3,92,6,10.2
