@@ -63,7 +63,7 @@ Este directorio contiene la versión HTML exportada del análisis principal de l
 
 - Para visualizar el documento, visita el siguiente enlace (una vez activado GitHub Pages):
 
-[Ver HTML en línea](.https://alexwill24.github.io/monografia-analisis-aca-merida/)
+[Ver HTML en línea](https://alexwill24.github.io/monografia-analisis-aca-merida/)
 
 ---
 
