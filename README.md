@@ -30,17 +30,7 @@ El objetivo de este trabajo es aplicar un modelo cuantitativo para evaluar la ef
 -   **/datos:** Incluye la base de datos principal (`ACA_Modelaje_R_Final.xlsx`) y los `shapefiles` necesarios para el análisis territorial.
 -   **/resultados:** Almacena una selección de los gráficos y tablas más relevantes generados por el script.
 -   
-# Visualización HTML de la Monografía
 
-Este directorio contiene la versión HTML exportada del análisis principal de la monografía:
-
-**Investigación y Análisis de Proyectos ACA Mérida - Venezuela (William Gutierrez)**
-
-- Para visualizar el documento, visita el siguiente enlace (una vez activado GitHub Pages):
-
-[Ver HTML en línea](https://alexwill24.github.io/monografia-analisis-aca-merida/)
-
----
 
 > Si tienes problemas para ver el HTML, copia el enlace completo de abajo en tu navegador:
 >
