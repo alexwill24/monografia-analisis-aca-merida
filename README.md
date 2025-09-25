@@ -44,7 +44,21 @@ El objetivo de este trabajo es aplicar un modelo cuantitativo para evaluar la ef
 4. Ejecuta el código chunk por chunk o knit completo.
 ## ¿Cómo utilizar este código?
 
+# Visualización HTML de la Monografía
+
+Este directorio contiene la versión HTML exportada del análisis principal de la monografía:
+
+**Investigación y Análisis de Proyectos ACA Mérida - Venezuela (William Gutierrez)**
+
+- Para visualizar el documento, visita el siguiente enlace (una vez activado GitHub Pages):
+
+[Ver HTML en línea](https://alexwill24.github.io/monografia-analisis-aca-merida/)
+
+
+
+
 Para reproducir el análisis, se requiere R y RStudio. Es necesario instalar las siguientes librerías:
+
 
 ```r
 # Lista de librerías utilizadas
