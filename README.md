@@ -11,12 +11,24 @@ Este repositorio contiene el código fuente, los datos y los resultados generado
 
 El objetivo de este trabajo es aplicar un modelo cuantitativo para evaluar la efectividad de las ACA en la resolución de nudos críticos, utilizando herramientas como el índice de Shannon, la correlación de Spearman y el Análisis de Componentes Principales.
 
+## Requisitos
+
+- R (versión 4.0 o superior)
+- RStudio (recomendado)
+- Los paquetes de R listados en el archivo `.Rmd`
+
 ## Contenido del Repositorio
 
 -   **/codigo:** Contiene el script principal de R Markdown (`Investigacion_ACA_Merida.Rmd`) con todo el proceso de análisis, desde la limpieza de datos hasta la generación de gráficos y tablas.
 -   **/datos:** Incluye la base de datos principal (`ACA_Modelaje_R_Final.xlsx`) y los `shapefiles` necesarios para el análisis territorial.
 -   **/resultados:** Almacena una selección de los gráficos y tablas más relevantes generados por el script.
 
+## Uso
+
+1. Clona este repositorio.
+2. Abre el archivo `ACA_Modelaje_R_Final.Rmd` en RStudio.
+3. Instala los paquetes necesarios (si no los tienes).
+4. Ejecuta el código chunk por chunk o knit completo.
 ## ¿Cómo utilizar este código?
 
 Para reproducir el análisis, se requiere R y RStudio. Es necesario instalar las siguientes librerías:
