@@ -29,7 +29,22 @@ El objetivo de este trabajo es aplicar un modelo cuantitativo para evaluar la ef
 -   **/codigo:** Contiene el script principal de R Markdown (`Investigacion_ACA_Merida.Rmd`) con todo el proceso de análisis, desde la limpieza de datos hasta la generación de gráficos y tablas.
 -   **/datos:** Incluye la base de datos principal (`ACA_Modelaje_R_Final.xlsx`) y los `shapefiles` necesarios para el análisis territorial.
 -   **/resultados:** Almacena una selección de los gráficos y tablas más relevantes generados por el script.
+-   
+# Visualización HTML de la Monografía
 
+Este directorio contiene la versión HTML exportada del análisis principal de la monografía:
+
+**Investigación y Análisis de Proyectos ACA Mérida - Venezuela (William Gutierrez)**
+
+- Para visualizar el documento, visita el siguiente enlace (una vez activado GitHub Pages):
+
+[Ver HTML en línea](./Investigación-y-Analisis-de-Proyectos-ACA-Mérida--Venezuela---William-Gutierrez.html)
+
+---
+
+> Si tienes problemas para ver el HTML, copia el enlace completo de abajo en tu navegador:
+>
+> `https://alexwill24.github.io/monografia-analisis-aca-merida/Investigación-y-Analisis-de-Proyectos-ACA-Mérida--Venezuela---William-Gutierrez.html`
 ## Uso
 
 1. Clona este repositorio.
