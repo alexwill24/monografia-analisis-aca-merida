@@ -33,8 +33,9 @@ El objetivo de este trabajo es aplicar un modelo cuantitativo para evaluar la ef
 
 
 > Si tienes problemas para ver el HTML, copia el enlace completo de abajo en tu navegador:
->
-> `https://alexwill24.github.io/monografia-analisis-aca-merida/Investigación-y-Analisis-de-Proyectos-ACA-Mérida--Venezuela---William-Gutierrez.html`
+> 
+> `https://alexwill24.github.io/monografia-analisis-aca-merida/`
+> 
 ## Uso
 
 1. Clona este repositorio.
