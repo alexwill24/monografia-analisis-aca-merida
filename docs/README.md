@@ -53,7 +53,7 @@ install.packages(c("readxl", "dplyr", "writexl", "vegan", "permute", "fastDummie
 Una vez instaladas las librerías, se puede ejecutar el archivo `Investigacion_ACA_Merida.Rmd` en la carpeta `/codigo`. El script está diseñado para leer los archivos de la carpeta `/datos` de forma relativa.
 
 ## Contribuciones
-Si encuentra errores o sugerencias, abra un issue o envíe un pull request. Contacto: gutalex2014@gmail.com.
+Si encuentra errores o sugerencias, abra un issue o envíe un pull request. Contacto: gutalex2014@gmail.com
 
 # Visualización HTML de la Monografía
 
