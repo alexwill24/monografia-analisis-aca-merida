@@ -1,0 +1,34 @@
+/* ===== Tipografía global ===== */
+body {
+  font-size: 18px !important;   /* Texto más grande para lectura en pantalla */
+  line-height: 1.7 !important;  /* Espaciado cómodo */
+  color: #2c3e50 !important;    /* Gris oscuro, mejor contraste */
+}
+
+/* ===== Títulos ===== */
+h1 {
+  font-size: 2.2em !important;
+  font-weight: bold !important;
+  color: #2c3e50 !important;
+}
+
+h2 {
+  font-size: 1.8em !important;
+  font-weight: bold !important;
+  color: #34495e !important;
+}
+
+h3 {
+  font-size: 1.5em !important;
+  font-weight: bold !important;
+  color: #3b3b3b !important;
+}
+
+/* ===== Tablas ===== */
+table {
+  font-size: 16px !important;
+}
+
+.dataTables_wrapper {
+  font-size: 15px !important;
+}
