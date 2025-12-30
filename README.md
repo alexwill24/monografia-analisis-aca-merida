@@ -7,7 +7,7 @@
 
 ## Descripción del Proyecto
 
-Este repositorio contiene el código fuente, los datos y los resultados generados para la monografía titulada: "Correlación entre nudos críticos y proyectos en las Agendas Concretas de Acción: Un análisis cuantitativo de la planificación comunal en Mérida (2019-2025)".
+Este repositorio contiene el código fuente, los datos y los resultados generados para la tesis titulada: "Correlación entre nudos críticos y proyectos en las Agendas Concretas de Acción: Un análisis cuantitativo de la planificación comunal en Mérida (2019-2025)".
 
 El objetivo de este trabajo es aplicar un modelo cuantitativo para evaluar la efectividad de las ACA en la resolución de nudos críticos, utilizando herramientas como el índice de Shannon, la correlación de Spearman y el Análisis de Componentes Principales.
 
