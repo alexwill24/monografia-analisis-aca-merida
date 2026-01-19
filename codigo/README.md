@@ -1,5 +1,5 @@
 cat("# Análisis de Agendas Concretas de Acción (ACA)
-## Estado Mérida, Venezuela
+
 
 ### 📋 Descripción
 Análisis estadístico y territorial de proyectos comunitarios del Estado Mérida (2019-2025).
