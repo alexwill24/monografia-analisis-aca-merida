@@ -46,7 +46,3 @@ Si encuentras problemas al reproducir el análisis:
 3. Ejecuta `renv::restore()` para sincronizar paquetes
 
 ---
-*Generado automáticamente con renv el $(format(Sys.Date(), '%d/%m/%Y'))*
-", file = "README.md")
-
-cat("\n✅ Archivo 'README.md' creado exitosamente\n")
