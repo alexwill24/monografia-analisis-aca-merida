@@ -1,6 +1,3 @@
-cat("# Análisis de Agendas Concretas de Acción (ACA)
-
-
 ### 📋 Descripción
 Análisis estadístico y territorial de proyectos comunitarios del Estado Mérida (2019-2025).
 
@@ -40,10 +37,7 @@ renv::restore()
 
 ### 👤 Autor
 **William A. Gutiérrez V.**  
-Fecha: $(format(Sys.Date(), '%B %Y'))
-
-### 📄 Licencia
-[Especificar licencia si aplica]
+Fecha: 18/01/2025
 
 ### 🆘 Soporte
 Si encuentras problemas al reproducir el análisis:
